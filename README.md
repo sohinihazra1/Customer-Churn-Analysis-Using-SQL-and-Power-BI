@@ -94,5 +94,5 @@ The interactive dashboard provides a visual exploration of churn patterns and ke
 
 Purpose:
 To help identify high-risk customers quickly and support data-driven decision-making.
-! [ Dashboard Preview ](view.png)
+![ Dashboard Preview ](view.png)
 
