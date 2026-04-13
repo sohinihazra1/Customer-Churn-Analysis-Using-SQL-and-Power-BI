@@ -74,7 +74,7 @@ Low usage → Issues → Dissatisfaction → Inactivity → Churn
 
 ---
 
-### 📁 Project Structure
+### Project Structure
 - Dataset
 - SQL Queries
 - Power BI Dashboard (.pbix)
@@ -82,7 +82,7 @@ Low usage → Issues → Dissatisfaction → Inactivity → Churn
 
 ---
 
-### 📊 Power BI Dashboard Overview
+### Power BI Dashboard Overview
 The interactive dashboard provides a visual exploration of churn patterns and key drivers:
 
 - Churn rate overview (KPIs)
