@@ -1,0 +1,45 @@
+About Dataset:
+
+This dataset is a synthetically generated customer behavior and churn dataset designed using business-driven statistical distributions and behavioral logic to approximate real-world subscription-based customer dynamics.
+ It simulates ustomer demographics, subscription characteristics, engagement behavior, support interactions, and payment patterns to enable realistic churn analysis while ensuring full privacy and ethical compliance.
+ No personally identifiable nformation (PII) or real company data is included.
+
+DATA OVERVIEW:
+Total Records: 15,000
+Total Features: 21
+Target Variable: churn
+0 = Retained
+1 = Churned
+
+Feature Categories:
+
+Customer Demographics:
+age
+gender
+region
+income_level (low / medium / high)
+
+Subscription & Billing Information:
+subscription_type (basic / standard / premium)
+signup_date
+payment_method
+monthly_charges
+total_spent
+
+Behavioral & Engagement Metrics:
+usage_frequency
+average_session_duration
+last_login_days
+support_tickets(Number of time a customer contacted the customer support)
+satisfaction_score (1-5)
+
+Engagement & Retention Signals:
+discount_usage (yes / no)
+promotional_response (yes / no)
+
+
+Observation Window:
+The dataset simulates customer behavior across a 12-24 month subscription lifecycle.
+
+
+
